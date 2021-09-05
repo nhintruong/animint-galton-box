@@ -312,6 +312,6 @@ viz2 <- ggplot() +
 ))
 
 # Saving it to a directory - uncomment it
-if (!requireNamespace("servr")) install.packages("servr")
-servr::httd("/Users/shubhammittal/Desktop/Animated_interactive_ggplots_GSoC")
-animint2dir(viz.final2, filepath)
+#if (!requireNamespace("servr")) install.packages("servr")
+#servr::httd("/Users/shubhammittal/Desktop/Animated_interactive_ggplots_GSoC")
+#animint2dir(viz.final2, filepath)

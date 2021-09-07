@@ -1,7 +1,7 @@
 * This is my repo for the tasks for Animated interactive ggplots project under the organization The R Project for Statistical Computing for GSoC 2021.
 
 * **Easy task**: India_covid_visualisation.R shows a visualisation of data of covid cases in India statewise and my submission for the easy task.                 
-* The interactive plot can be found at https://bl.ocks.org/shubhammittal588/8df2b928f8e0fb92ff0de5ad27f91154.     
+* The interactive plot can be found at https://shubhammittal588.github.io/Shubham-Mittal-GSoC/covid_graph/index.html.     
 * covid_19_india.csv is the dataset used for the visualisation
 
 * **Medium task**:  Galton_box_final.R contains the R code for making the animint2 version of https://yihui.org/animation/example/quincunx/                                
